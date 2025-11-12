@@ -2,7 +2,7 @@
 /*
 Plugin Name: Example plugin
 Description: We will demonstrate how to make it git-updater compatible
-Version:     1.0.2
+Version:     1.0.3
 Author:      Andy & Maciek
 License:     GPL2 etc
 GitHub Plugin URI: palmiak/git-updater-test-plugin
